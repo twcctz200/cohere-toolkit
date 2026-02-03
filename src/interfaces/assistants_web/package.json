@@ -47,7 +47,7 @@
     "lodash": "^4.17.21",
     "match-sorter": "^6.3.1",
     "mdast-util-to-string": "^4.0.0",
-    "next": "^14.2.5",
+    "next": "^15.5.10",
     "node-html-parser": "^6.1.4",
     "parse-domain": "^8.0.1",
     "postcss": "^8.4.31",
@@ -81,7 +81,7 @@
     "zustand": "4.3.1"
   },
   "devDependencies": {
-    "@hey-api/openapi-ts": "^0.48.1",
+    "@hey-api/openapi-ts": "^0.85.0",
     "@tailwindcss/typography": "^0.5.9",
     "@trivago/prettier-plugin-sort-imports": "^4.1.1",
     "@types/js-cookie": "^3.0.6",
@@ -91,7 +91,7 @@
     "@types/react-syntax-highlighter": "^15.5.11",
     "@typescript-eslint/eslint-plugin": "^6.7.4",
     "@typescript-eslint/parser": "^6.7.4",
-    "eslint": "^8.50.0",
+    "eslint": "^9.26.0",
     "eslint-config-next": "^13.5.4",
     "eslint-config-prettier": "^9.0.0",
     "postcss-100vh-fix": "^1.0.2",
