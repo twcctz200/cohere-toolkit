@@ -30,8 +30,8 @@
     "@types/node": "20.12.11",
     "@types/offscreencanvas": "^2019.7.3",
     "@types/word-extractor": "^1.0.2",
-    "@vitest/ui": "^1.6.0",
-    "axios": "^1.7.2",
+    "@vitest/ui": "^4.0.18",
+    "axios": "^1.13.5",
     "dotenv": "^16.0.3",
     "eslint": "^9.3.0",
     "form-data": "^4.0.0",
@@ -41,16 +41,16 @@
     "prettier": "^3.2.5",
     "prisma": "^5.14.0",
     "slackify-markdown": "^4.4.0",
-    "tsup": "^8.0.0",
+    "tsup": "^8.5.1",
     "typescript": "^5.4.5",
-    "vite": "^5.2.12",
+    "vite": "^7.3.1",
     "vite-tsconfig-paths": "^4.3.2",
-    "vitest": "^1.6.0",
+    "vitest": "^4.0.18",
     "word-extractor": "^1.0.4"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
-    "@vitest/coverage-v8": "^1.6.0",
+    "@vitest/coverage-v8": "^4.0.18",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.1.3"
   }
